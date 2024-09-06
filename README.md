@@ -40,8 +40,6 @@ Contributions to this study are welcome! If you have suggestions for improvement
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-Refer to [this article](todo) for more info.
-
 ---
 
 *Disclaimer: This study aims to offer insights into the performance characteristics of various programming languages and should not be solely relied upon for language selection in real-world projects. The performance of a language may vary depending on numerous factors, such as hardware specifications, compiler optimizations, and specific use cases.*
