@@ -32,6 +32,15 @@ This repo houses scripts and resources for a thorough examination of performance
 
 1. Analyze the results stored in the [`plots`](./plots) directory to understand the performance characteristics of each language.
 
+## 📊 Results
+
+After running the benchmarks and plotting the results, C fib algorithm had the fastest execution times, followed by Rust, Go, Julia, TypeScript, and Python.
+
+![Matplotlib Plot](./assets/plot1.png)
+
+![Matplotlib](./assets/plot2.png)
+
+![Plotters](./assets/out.png)
 ## 🤝 Contributing
 
 Contributions to this study are welcome! If you have suggestions for improvements, additional benchmarks, or insights to share, feel free to open an issue or submit a pull request.
