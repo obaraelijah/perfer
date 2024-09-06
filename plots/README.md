@@ -15,7 +15,7 @@ python3 plot-sep.py
 
 ![Matplotlib Plot](../assets/plot1.png)
 
-![Matplotlib Plot](../assets/plot2.png)
+![Matplotlib](../assets/plot2.png)
 
 ## Using Plotters
 
